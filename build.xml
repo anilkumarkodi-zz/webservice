@@ -80,11 +80,11 @@
         </copy>
     </target>
 
-    <target name="package-src" description="Create zip of the source code for distribution.">
-        <mkdir dir="${dist.dir}"/>
-        <zip basedir="${basedir}" destfile="${dist.dir}/${ant.project.name}-src.zip"/>
-        <checksum file="${dist.dir}/${ant.project.name}-src.zip"/>
-    </target>
+    <!--<target name="package-src" description="Create zip of the source code for distribution.">-->
+        <!--<mkdir dir="${dist.dir}"/>-->
+        <!--<zip basedir="${basedir}" destfile="${dist.dir}/${ant.project.name}-src.zip"/>-->
+        <!--<checksum file="${dist.dir}/${ant.project.name}-src.zip"/>-->
+    <!--</target>-->
 
 
 </project>

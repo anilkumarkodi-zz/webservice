@@ -23,10 +23,10 @@ public class GooglePageController {
     @RequestMapping(value = "/findDistance", method = RequestMethod.GET)
     public
     @ResponseBody
-    String get(@RequestParam(value = "fromAddress") String fromAddress,@RequestParam(value = "toAddress") String toAddress) {
+    String get(@RequestParam(value = "fromAddress") String fromAddress, @RequestParam(value = "toAddress") String toAddress) {
         String distance = "Not Found";
-        if(service.isLocationPresent(fromAddress,toAddress)){
-            service.getDistance(fromAddress,toAddress);
+        if (service.isLocationPresent(fromAddress, toAddress)) {
+            service.getDistance(fromAddress, toAddress);
             distance = service.getDistance(fromAddress, toAddress);
         }
         return distance;
@@ -35,7 +35,7 @@ public class GooglePageController {
     @RequestMapping(value = "/saveDistance", method = RequestMethod.GET)
     public
     @ResponseBody
-    void save(@RequestParam(value = "from_address") String fromAddress,@RequestParam(value = "to_address") String toAddress,@RequestParam(value="distance") String distance) {
-            service.save(fromAddress,toAddress,distance);
+    void save(@RequestParam(value = "from_address") String fromAddress, @RequestParam(value = "to_address") String toAddress, @RequestParam(value = "distance") String distance) {
+        service.save(fromAddress, toAddress, distance);
     }
 }

@@ -6,6 +6,7 @@ import org.springframework.jdbc.support.rowset.SqlRowSet;
 import org.springframework.stereotype.Repository;
 
 import javax.sql.DataSource;
+
 @Repository
 public class GoogleRepository {
 
@@ -18,7 +19,7 @@ public class GoogleRepository {
     }
 
     public int save(String fromAddress, String toAddress, String distance) {
-        return jdbcTemplate.update("insert into locations values('"+fromAddress+"','"+toAddress+"','"+distance+"')");
+        return jdbcTemplate.update("insert into locations values('" + fromAddress + "','" + toAddress + "','" + distance + "')");
 
     }
 

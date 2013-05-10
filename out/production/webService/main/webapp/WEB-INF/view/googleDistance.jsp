@@ -32,7 +32,7 @@
         });
     </script>
    </div><div>
-   <input type="button" name="getDirection" value="Get Length"
+   <input type="button" name="getDistance" value="Get Distance"
               onclick="checkDistance()">
 
     <div id="content"></div>
