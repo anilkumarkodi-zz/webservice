@@ -1,5 +1,6 @@
 package com.webservice.controller;
 
+import com.webservice.domain.GeoCoder;
 import com.webservice.services.GoogleDBService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -8,6 +9,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
+import org.xml.sax.SAXException;
+
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.xpath.XPathExpressionException;
+import java.io.IOException;
 
 @Controller
 public class GooglePageController {
@@ -23,19 +29,15 @@ public class GooglePageController {
     @RequestMapping(value = "/findDistance", method = RequestMethod.GET)
     public
     @ResponseBody
-    String get(@RequestParam(value = "fromAddress") String fromAddress, @RequestParam(value = "toAddress") String toAddress) {
-        String distance = "Not Found";
-        if (service.isLocationPresent(fromAddress, toAddress)) {
-            service.getDistance(fromAddress, toAddress);
-            distance = service.getDistance(fromAddress, toAddress);
+    String get(@RequestParam(value = "fromAddress") String fromAddress, @RequestParam(value = "toAddress") String toAddress, @RequestParam(value = "travelMode") String travelMode) throws ParserConfigurationException, SAXException, XPathExpressionException, IOException {
+        String distance;
+            if (service.isLocationPresent(fromAddress, toAddress, travelMode)) {
+            distance = service.getDistance(fromAddress, toAddress, travelMode);
+        } else {
+            GeoCoder geoCoder = new GeoCoder();
+            distance = geoCoder.calculateDistance(fromAddress.replaceAll(" ", "+"), toAddress.replaceAll(" ", "+"), travelMode);
+            service.save(fromAddress, toAddress, distance, travelMode);
         }
         return distance;
-    }
-
-    @RequestMapping(value = "/saveDistance", method = RequestMethod.GET)
-    public
-    @ResponseBody
-    void save(@RequestParam(value = "from_address") String fromAddress, @RequestParam(value = "to_address") String toAddress, @RequestParam(value = "distance") String distance) {
-        service.save(fromAddress, toAddress, distance);
     }
 }

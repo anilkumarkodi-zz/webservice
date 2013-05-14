@@ -25,18 +25,19 @@ public class GoogleRepositoryTest extends JunitSpringConfig {
 
     @Test
     public void shouldGetTheDistanceForGivenLocations() {
-        assertThat(googleRepository.getDistance("Chennai, Tamil Nadu, India", "Bangalore, Karnataka, India"), IsEqual.equalTo("288.13"));
+        System.out.println(googleRepository.getDistance("Chennai, Tamil Nadu, India", "Bangalore, Karnataka, India", "walking"));
+        assertThat(googleRepository.getDistance("Chennai, Tamil Nadu, India", "Bangalore, Karnataka, India", "walking"), IsEqual.equalTo("288.13"));
     }
 
     @Test
     public void shouldReturnFalseWhenGivenLocationNotFound() {
-        assertFalse(googleRepository.isLocationPresent("abcd", "bdcas"));
+        assertFalse(googleRepository.isLocationPresent("abcd", "bdcas", "walking"));
     }
 
     @Test
     public void shouldSaveLocation() {
-        googleRepository.save("chennai", "hyderabad", "516");
-        assertTrue(googleRepository.isLocationPresent("chennai", "hyderabad"));
+        googleRepository.save("chennai", "hyderabad", "516", "walking");
+        assertTrue(googleRepository.isLocationPresent("chennai", "hyderabad", "walking"));
     }
 
 

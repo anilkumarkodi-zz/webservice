@@ -12,11 +12,9 @@
 
     <path id="common-classpath">
         <pathelement location="${src.dir}/resources"/>
-        <!--<pathelement location="${src.dir}/deployment/env/dev"/>-->
         <fileset dir="${compile.dir}"/>
         <fileset dir="lib/runtime/jar"/>
-        <fileset dir="lib/buildtime/jar" />
-        <!--<fileset dir="lib/jetty/jar" excludes="ant-*.jar"/>-->
+        <fileset dir="lib/buildtime/jar"/>
     </path>
 
     <path id="system-classpath">
@@ -48,7 +46,6 @@
         <make-jar srcdir="${src.dir}" jarfile="${ant.project.name}.jar" classpath="common-classpath"/>
     </target>
 
-
     <target name="build-number" unless="build.number">
         <property name="build.number" value="1"/>
     </target>
@@ -75,15 +72,14 @@
     <target name="copy-files-to-class-path">
         <copy todir="${dist.dir}/classes">
             <fileset dir="${src.dir}/resources" includes="*.xml"/>
-            <!--<fileset dir="/deployment/env/dev" includes="app-external.properties"/>-->
             <fileset dir="${src.dir}/webapp/WEB-INF" includes="dispatcher*.xml"/>
         </copy>
     </target>
 
     <!--<target name="package-src" description="Create zip of the source code for distribution.">-->
-        <!--<mkdir dir="${dist.dir}"/>-->
-        <!--<zip basedir="${basedir}" destfile="${dist.dir}/${ant.project.name}-src.zip"/>-->
-        <!--<checksum file="${dist.dir}/${ant.project.name}-src.zip"/>-->
+    <!--<mkdir dir="${dist.dir}"/>-->
+    <!--<zip basedir="${basedir}" destfile="${dist.dir}/${ant.project.name}-src.zip"/>-->
+    <!--<checksum file="${dist.dir}/${ant.project.name}-src.zip"/>-->
     <!--</target>-->
 
 

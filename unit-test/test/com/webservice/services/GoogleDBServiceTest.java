@@ -13,6 +13,6 @@ public class GoogleDBServiceTest extends JunitSpringConfig {
 
     @Test
     public void shouldGetDistanceForGivenLocation() {
-        assertThat(googleDBService.getDistance("Chennai, Tamil Nadu, India", "Bangalore, Karnataka, India"), IsEqual.equalTo("288.13"));
+        assertThat(googleDBService.getDistance("Chennai, Tamil Nadu, India", "Bangalore, Karnataka, India","driving"), IsEqual.equalTo("288.13"));
     }
 }

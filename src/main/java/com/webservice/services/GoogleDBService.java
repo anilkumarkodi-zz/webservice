@@ -14,15 +14,15 @@ public class GoogleDBService {
         this.googleRepository = googleRepository;
     }
 
-    public int save(String fromAddress, String toAddress, String distance) {
-        return googleRepository.save(fromAddress, toAddress, distance);
+    public boolean isLocationPresent(String fromAddress, String toAddress, String travelMode) {
+        return googleRepository.isLocationPresent(fromAddress, toAddress, travelMode);
     }
 
-    public String getDistance(String fromAddress, String toAddress) {
-        return googleRepository.getDistance(fromAddress, toAddress);
+    public String getDistance(String fromAddress, String toAddress, String travelMode) {
+        return googleRepository.getDistance(fromAddress, toAddress, travelMode);
     }
 
-    public boolean isLocationPresent(String fromAddress, String toAddress) {
-        return googleRepository.isLocationPresent(fromAddress, toAddress);
+    public int save(String fromAddress, String toAddress, String distance, String travelMode) {
+        return googleRepository.save(fromAddress, toAddress, distance, travelMode);
     }
 }
