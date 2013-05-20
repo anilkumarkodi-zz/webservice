@@ -1,27 +1,36 @@
 package com.webservice.controller;
 
+import com.webservice.domain.User;
+import com.webservice.persistence.UserService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
-import org.xml.sax.InputSource;
 
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpressionException;
-import javax.xml.xpath.XPathFactory;
 
 @Controller
 public class HomeController {
-    @RequestMapping(value = "/home", method = RequestMethod.GET)
+
+    private UserService userService = null;
+
+    @Autowired
+    public void setUserService(UserService googleService) {
+        this.userService = googleService;
+    }
+
+    @RequestMapping(value = "/registration", method = RequestMethod.GET)
     public ModelAndView setup() throws XPathExpressionException {
+        return new ModelAndView("registration");
+    }
 
-//        XPath xpath = XPathFactory.newInstance().newXPath();
-//        String expression = "//GeocodeResponse/result/address_component[type=\"postal_code\"]/long_name/text()";
-//        InputSource inputSource = new InputSource("https://maps.googleapis.com/maps/api/geocode/xml?latlng="+VARIABLECONTAININGLATITUDE+","+VARIABLECONTAININGLONGITUDE+"&sensor=true");
-//        String zipcode = (String) xpath.evaluate(expression, inputSource, XPathConstants.STRING);
-
-        return new ModelAndView("home");
-
+    @RequestMapping(value = "/add", method = RequestMethod.POST)
+    public ModelAndView add(@ModelAttribute(value = "user") User user) {
+        ModelAndView mv = new ModelAndView("registration");
+        userService.saveUser(user);
+        mv.addObject("users", user.getAge());
+        return mv;
     }
 }

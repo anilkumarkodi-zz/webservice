@@ -4,20 +4,20 @@
     <list default="true" id="ef79341e-92c7-4d4f-8a6e-4129d971d033" name="Default" comment="" />
     <ignored path="forum-3252cdbbeb2250b9f150bbca65f7cee239756f94.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368510763440" ignored="false" />
-    <file path="/fragment.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368179700301" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368866419301" ignored="false" />
+    <file path="/fragment.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368795418267" ignored="false" />
     <file path="$USER_HOME$/Desktop/forum/src/main/java/com/forum/controller/googleDistance.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1367990601975" ignored="false" />
     <file path="/googleDistance.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1367990578746" ignored="false" />
     <file path="$USER_HOME$/Desktop/forum/src/buildxmlCopy" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1367993205253" ignored="false" />
-    <file path="/build.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368007399627" ignored="false" />
+    <file path="/build.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368706456443" ignored="false" />
     <file path="/web.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1367994927513" ignored="false" />
-    <file path="/applicationContext.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368102374971" ignored="false" />
+    <file path="/applicationContext.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368688797472" ignored="false" />
     <file path="/404.jsp" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368008505014" ignored="false" />
     <file path="/index.jsp" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368008599751" ignored="false" />
-    <file path="/dispatcher-servlet.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368011478589" ignored="false" />
+    <file path="/dispatcher-servlet.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368622608085" ignored="false" />
     <file path="/home.jsp" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368011743483" ignored="false" />
-    <file path="/GooglePageController.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368513443776" ignored="false" />
-    <file path="/googleDistance.jsp" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368453201376" ignored="false" />
+    <file path="/GooglePageController.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368966962143" ignored="false" />
+    <file path="/googleDistance.jsp" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368782779244" ignored="false" />
     <file path="$PROJECT_DIR$/../HandleBar/src/script/practice.js" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368101394866" ignored="false" />
     <file path="$USER_HOME$/GitHub/forum/src/main/java/com/forum/services/AdviceService.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368099467492" ignored="false" />
     <file path="/GoogleDBService.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368450183674" ignored="false" />
@@ -26,9 +26,9 @@
     <file path="$PROJECT_DIR$/../HandleBar/src/WEB/GoogleLatLng.html" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368511543200" ignored="false" />
     <file path="$PROJECT_DIR$/../HandleBar/src/WEB/GoogleLength.html" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368101988405" ignored="false" />
     <file path="/GoogleLatLng.html" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368511540178" ignored="false" />
-    <file path="/a.dummy" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368102797848" ignored="false" />
+    <file path="/a.dummy" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368708154679" ignored="false" />
     <file path="/GooglePageControllerTest.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368104107152" ignored="false" />
-    <file path="/googleDistance.js" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368469022461" ignored="false" />
+    <file path="/googleDistance.js" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1369024110891" ignored="false" />
     <file path="$USER_HOME$/GitHub/forum/src/main/webapp/static/javascript/userValidation.js" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368106708893" ignored="false" />
     <file path="/GoogleRepositoryTest.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368513575771" ignored="false" />
     <file path="/JunitSpringConfig.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368161703936" ignored="false" />
@@ -39,11 +39,38 @@
     <file path="/GeoCode.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368423914010" ignored="false" />
     <file path="$PROJECT_DIR$/../HandleBar/src/main/Geocoder.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368420006453" ignored="false" />
     <file path="$PROJECT_DIR$/../HandleBar/src/main/Distance.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368433920277" ignored="false" />
-    <file path="/Distance.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368428198499" ignored="false" />
-    <file path="/GeoCoder.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368512705394" ignored="false" />
-    <file path="/Main.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368445345661" ignored="false" />
+    <file path="/Distance.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368789168165" ignored="false" />
+    <file path="/GeoCoder.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1369023745021" ignored="false" />
+    <file path="/Main.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368795411427" ignored="false" />
     <file path="$PROJECT_DIR$/../HandleBar/src/script/showLatLong.js" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368511139162" ignored="false" />
     <file path="/showLatLong.js" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368511138385" ignored="false" />
+    <file path="$PROJECT_DIR$/../HandleBar/src/WEB/MyBatisWEB/Registration.html" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368523794217" ignored="false" />
+    <file path="$PROJECT_DIR$/../HandleBar/src/MyBatisWEB/Registration.html" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368523847084" ignored="false" />
+    <file path="$USER_HOME$/Downloads/mybatis-jpetstore-6.0.1/src/main/java/org/mybatis/jpetstore/persistence/SequenceMapper.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368527647444" ignored="false" />
+    <file path="$USER_HOME$/Downloads/mybatis-jpetstore-6.0.1/src/main/java/org/mybatis/jpetstore/domain/Account.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368527286080" ignored="false" />
+    <file path="$USER_HOME$/Downloads/mybatis-jpetstore-6.0.1/src/main/java/org/mybatis/jpetstore/domain/Cart.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368527298107" ignored="false" />
+    <file path="$USER_HOME$/Downloads/mybatis-jpetstore-6.0.1/src/main/java/org/mybatis/jpetstore/service/OrderService.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368527314358" ignored="false" />
+    <file path="$USER_HOME$/Downloads/mybatis-jpetstore-6.0.1/src/main/webapp/WEB-INF/applicationContext.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368596049318" ignored="false" />
+    <file path="$PROJECT_DIR$/build/dist/classes/jdbc-context.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368621300470" ignored="false" />
+    <file path="/registration.jsp" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368621200328" ignored="false" />
+    <file path="/HomeController.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368782515583" ignored="false" />
+    <file path="$PROJECT_DIR$/../SpringMVCMyBatisCRUDExample/src/com/raistudies/controllers/RegistrationController.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368621976381" ignored="false" />
+    <file path="$PROJECT_DIR$/../SpringMVCMyBatisCRUDExample/.idea/workspace.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368613453674" ignored="false" />
+    <file path="/UserService.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368773062059" ignored="false" />
+    <file path="/jdbc.properties" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368617673685" ignored="false" />
+    <file path="/UserService.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368780258985" ignored="false" />
+    <file path="/mybatis.properties" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368619112428" ignored="false" />
+    <file path="/jdbc-context.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368685955395" ignored="false" />
+    <file path="$PROJECT_DIR$/../SpringMVCMyBatisCRUDExample/WebContent/WEB-INF/app-config.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368686418869" ignored="false" />
+    <file path="$PROJECT_DIR$/../SpringMVCMyBatisCRUDExample/WebContent/WEB-INF/mybatis/try.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368688978444" ignored="false" />
+    <file path="/sqlmap-config.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368689452291" ignored="false" />
+    <file path="$USER_HOME$/GitHub/forum/build.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368699678823" ignored="false" />
+    <file path="/ivy.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368967629630" ignored="false" />
+    <file path="/GoogleService.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368967004778" ignored="false" />
+    <file path="/GoogleService.xml" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368967153929" ignored="false" />
+    <file path="$USER_HOME$/GitWorkShop/SpringMVCMyBatisCRUDExample/src/com/raistudies/persistence/UserService.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368856127454" ignored="false" />
+    <file path="/JsonTest.java" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1368804518707" ignored="false" />
+    <file path="$PROJECT_DIR$/build/dist/classes/app-version.properties" changelist="ef79341e-92c7-4d4f-8a6e-4129d971d033" time="1369023767788" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,82 +131,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GeoCoder.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GeoCoder.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/domain/GeoCoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="50" selection-start="2350" selection-end="2392" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="googleDistance.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/googleDistance.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="95" selection-start="2344" selection-end="2357" vertical-scroll-proportion="0.0">
+            <state line="56" column="73" selection-start="2279" selection-end="2279" vertical-scroll-proportion="0.6526316">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/domain/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="36" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GooglePageController.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GooglePageController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/controller/GooglePageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="12" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.6369427">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="googleDistance.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/javascript/googleDistance.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="0" selection-start="2001" selection-end="2001" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleRepository.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/repository/GoogleRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
+            <state line="51" column="10" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1598#1614#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleRepositoryTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit-test/test/com/webservice/repository/GoogleRepositoryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="63" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleDBService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/services/GoogleDBService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="39" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -191,33 +159,60 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/test/com/webservice/controller/GooglePageControllerTest.java" />
-        <option value="$PROJECT_DIR$/test/com/webservice/repository/JunitSpringConfig.java" />
-        <option value="$PROJECT_DIR$/test/com/webservice/repository/GoogleRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/unit-test/test/com/webservice/controller/GooglePageControllerTest.java" />
-        <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/webservice/controller/HomeController.java" />
-        <option value="$PROJECT_DIR$/unit-test/test/com/webservice/services/GoogleDBServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/webservice/repository/GoogleRepository.java" />
+        <option value="$PROJECT_DIR$/unit-test/test/com/webservice/services/GoogleDBServiceTest.java" />
+        <option value="$PROJECT_DIR$/unit-test/test/com/webservice/repository/GoogleRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/unit-test/test/com/webservice/repository/JunitSpringConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/webservice/services/GoogleDBService.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/googleDistance.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webservice/domain/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webservice/domain/GeoMain.java" />
+        <option value="$PROJECT_DIR$/unit-test/test/JsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webservice/persistence/GoogleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webservice/persistence/GoogleService.xml" />
+        <option value="$PROJECT_DIR$/ivy.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webservice/domain/Distance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webservice/controller/GooglePageController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/javascript/googleDistance.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/webservice/domain/GeoCoder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/webservice/domain/Main.java" />
-        <option value="$PROJECT_DIR$/unit-test/test/com/webservice/repository/GoogleRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/webservice/controller/GooglePageController.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="27" />
-    <option name="width" value="1282" />
-    <option name="height" value="774" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -245,6 +240,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -263,22 +259,220 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="persistence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.project.gant" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$USER_HOME$/GitWorkShop/SpringMVCMyBatisCRUDExample" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -286,66 +480,46 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.webservice.services" />
       <recent name="com.webservice.repository" />
       <recent name="com.webservice.controller" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.webservice.validator" />
+      <recent name="com.webservice.controller" />
       <recent name="com.forum.jetty" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/lib/runtime/jar" />
-      <recent name="$PROJECT_DIR$/lib/buildtime/jar" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/static/hendlerbar" />
-      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/static/javascript" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.webservice.repository" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/buildtime/jar" />
+      <recent name="$PROJECT_DIR$/lib/runtime/jar" />
+      <recent name="$PROJECT_DIR$/lib/buildtime" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/mybatis" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.forum" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/unit-test" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/lib/runtime/jar" />
-      <recent name="$PROJECT_DIR$/lib" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.GoogleRepositoryTest.shouldGetTheDistanceForGivenLocations">
-    <configuration default="false" name="GoogleDBServiceTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="webService" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.webservice.services" />
-      <option name="MAIN_CLASS_NAME" value="com.webservice.services.GoogleDBServiceTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.JsonTest.shouldReadValuesFromJsonString">
     <configuration default="false" name="GooglePageControllerTest.shouldReturnGoogleDistancePage" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="webService" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -396,17 +570,17 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.webservice.domain.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration default="false" name="GeoMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.webservice.domain.GeoMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="webService" />
+      <module name="webservice" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -434,12 +608,47 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="JsonTest.shouldReadValuesFromJsonString" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="webservice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JsonTest" />
+      <option name="METHOD_NAME" value="shouldReadValuesFromJsonString" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -467,19 +676,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -517,19 +713,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.GoogleDBServiceTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.GooglePageControllerTest.shouldReturnGoogleDistancePage" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.All in webService" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.GoogleRepositoryTest.shouldGetTheDistanceForGivenLocations" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.GooglePageControllerTest.shouldReturnGoogleDistancePage" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in webService" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GeoMain" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GoogleRepositoryTest.shouldGetTheDistanceForGivenLocations" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.JsonTest.shouldReadValuesFromJsonString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GoogleRepositoryTest.shouldGetTheDistanceForGivenLocations" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.All in webService" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.GooglePageControllerTest.shouldReturnGoogleDistancePage" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.GoogleDBServiceTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.JsonTest.shouldReadValuesFromJsonString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GeoMain" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GoogleRepositoryTest.shouldGetTheDistanceForGivenLocations" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.All in webService" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.GooglePageControllerTest.shouldReturnGoogleDistancePage" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
@@ -541,6 +737,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ef79341e-92c7-4d4f-8a6e-4129d971d033" name="Default" comment="" />
@@ -570,27 +783,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="27" width="1282" height="774" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="27" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09643436" sideWeight="0.8482428" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12094156" sideWeight="0.8224" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.399361" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15974441" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1517572" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1776" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22528364" sideWeight="0.8482428" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35942492" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27353895" sideWeight="0.8224" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258786" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -655,6 +868,18 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="webservice" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="webservice" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -662,147 +887,121 @@
       <targetFilters>
         <filter targetName="fetch-libs" isVisible="true" />
         <filter targetName="build" isVisible="true" />
-        <filter targetName="precommit" isVisible="true" />
         <filter targetName="clean" isVisible="true" />
         <filter targetName="make-jars" isVisible="false" />
-        <filter targetName="run-tests" isVisible="true" />
-        <filter targetName="run-unit-tests" isVisible="false" />
-        <filter targetName="run-integration-tests" isVisible="false" />
-        <filter targetName="run-system-tests" isVisible="false" />
-        <filter targetName="report-tests" isVisible="false" />
-        <filter targetName="check-failed-tests" isVisible="false" />
         <filter targetName="build-number" isVisible="false" />
         <filter targetName="setup-app-properties" isVisible="false" />
         <filter targetName="make-war" isVisible="false" />
-        <filter targetName="make-zip" isVisible="false" />
-        <filter targetName="run-jetty" isVisible="true" />
-        <filter targetName="package-src" isVisible="true" />
-        <filter targetName="get-build-number" isVisible="false" />
+        <filter targetName="copy-files-to-class-path" isVisible="false" />
       </targetFilters>
       <expanded value="true" />
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/dist/classes/dispatcher-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/ivysettings-custom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="760" selection-end="760" vertical-scroll-proportion="0.4855196">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
+    <entry file="file://$PROJECT_DIR$/ivysettings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-i386/src.zip!/java/io/OutputStream.java">
+    <entry file="file://$PROJECT_DIR$/unit-test/test/JsonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="13" selection-start="5074" selection-end="5074" vertical-scroll-proportion="0.7733333">
+        <state line="14" column="38" selection-start="514" selection-end="514" vertical-scroll-proportion="0.2920354">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-i386/src.zip!/javax/xml/xpath/XPathConstants.java">
+    <entry file="file://$PROJECT_DIR$/webservice.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="50" selection-start="1847" selection-end="1847" vertical-scroll-proportion="-0.026666667">
+        <state line="31" column="40" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/test/com/webservice/services/GoogleDBServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/googleDistance.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="115" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/test/com/webservice/repository/JunitSpringConfig.java">
+    <entry file="file://$PROJECT_DIR$/build/dist/classes/app-version.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="287" selection-end="287" vertical-scroll-proportion="0.12953368">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="559" selection-end="559" vertical-scroll-proportion="0.025041737">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/persistence/GoogleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="49" selection-start="196" selection-end="196" vertical-scroll-proportion="0.19271949">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/javascript/googleDistance.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="0" selection-start="2001" selection-end="2001" vertical-scroll-proportion="0.0">
+        <state line="73" column="36" selection-start="2236" selection-end="2236" vertical-scroll-proportion="2.305263">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/services/GoogleDBService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/persistence/GoogleService.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="39" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
+        <state line="14" column="73" selection-start="650" selection-end="650" vertical-scroll-proportion="0.44210526">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/domain/GeoCoder.java">
+    <entry file="file://$PROJECT_DIR$/webService.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="50" selection-start="2350" selection-end="2392" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/googleDistance.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="95" selection-start="2344" selection-end="2357" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/domain/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="36" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/test/com/webservice/repository/GoogleRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="63" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/repository/GoogleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/controller/GooglePageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="12" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.6369427">
+        <state line="51" column="10" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1598#1614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webservice/domain/GeoCoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="73" selection-start="2279" selection-end="2279" vertical-scroll-proportion="0.6526316">
           <folding />
         </state>
       </provider>
@@ -847,7 +1046,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>webService</last-edited>
+          <last-edited>webservice</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -871,7 +1070,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>src (2)</last-edited>
+          <last-edited>source</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

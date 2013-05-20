@@ -71,6 +71,9 @@ function checkDistance(travelMode){
        if (xmlhttp.readyState==4 && xmlhttp.status==200){
                 displayOnBody(xmlhttp.responseText);
        }
+       if (xmlhttp.readyState==4 && xmlhttp.status==500){
+        alert("Could not found");
+        }
     }
     xmlhttp.open("GET","findDistance?fromAddress="+fromAddress+"&toAddress="+toAddress+"&travelMode="+travelMode,true);
     xmlhttp.send();

@@ -9,17 +9,30 @@
     <property name="dist.dir" location="${build.dir}/dist"/>
 
     <property name="test.report.dir" location="${report.dir}/test"/>
+    <property name="bootstrap.ant.jar.dir" location="${basedir}/bootstrap/ant"/>
 
     <path id="common-classpath">
         <pathelement location="${src.dir}/resources"/>
         <fileset dir="${compile.dir}"/>
-        <fileset dir="lib/runtime/jar"/>
-        <fileset dir="lib/buildtime/jar"/>
+        <fileset dir="../webservice/lib/runtime/jar"/>
+        <fileset dir="../webservice/lib/buildtime/jar"/>
     </path>
 
     <path id="system-classpath">
         <path refid="common-classpath"/>
     </path>
+
+    <taskdef resource="org/apache/ivy/ant/antlib.xml">
+        <classpath location="${bootstrap.ant.jar.dir}/ivy-2.3.0.jar"/>
+    </taskdef>
+
+    <target name="fetch-libs" description="Fetch third-party libraries using ivy.">
+        <property name="ivy.default.ivy.user.dir" value="${basedir}/../ivy"/>
+        <configure file="ivysettings.xml"/>
+        <resolve file="ivy.xml"/>
+        <retrieve pattern="lib/[conf]/[type]/[artifact]-[revision].[ext]" sync="true"/>
+    </target>
+
 
     <macrodef name="make-jar">
         <attribute name="srcdir"/>
@@ -38,11 +51,12 @@
 
     <target name="build" depends="clean, make-war" description="Create WAR file."/>
 
+
     <target name="clean" description="Delete output directory.">
         <delete dir="${build.dir}"/>
     </target>
 
-    <target name="make-jars" depends="copy-files-to-class-path">
+    <target name="make-jars" depends="fetch-libs,copy-files-to-class-path">
         <make-jar srcdir="${src.dir}" jarfile="${ant.project.name}.jar" classpath="common-classpath"/>
     </target>
 
@@ -57,6 +71,7 @@
               file="${dist.dir}/classes/app-version.properties"/>
     </target>
 
+
     <target name="make-war" depends="make-jars,setup-app-properties">
         <mkdir dir="${dist.dir}"/>
         <mkdir dir="${dist.dir}/webapp"/>
@@ -65,7 +80,7 @@
             <fileset dir="${src.dir}/webapp"/>
             <zipfileset prefix="${build.number}" dir="${dist.dir}/webapp"/>
             <lib dir="${compile.dir}" excludes="*-tests.jar"/>
-            <lib dir="lib/runtime/jar"/>
+            <lib dir="../webservice/lib/runtime/jar"/>
         </war>
     </target>
 

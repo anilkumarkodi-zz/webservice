@@ -3,8 +3,8 @@
     <CLASSES />
     <JAVADOC />
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/lib/buildtime/src" />
+      <root url="file://$PROJECT_DIR$/lib/runtime/src" />
     </SOURCES>
-    <jarDirectory url="file://$PROJECT_DIR$/lib/buildtime/src" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/runtime/src" recursive="false" type="SOURCES" />
   </library>
 </component>

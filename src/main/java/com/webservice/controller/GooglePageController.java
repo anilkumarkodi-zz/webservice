@@ -1,7 +1,7 @@
 package com.webservice.controller;
 
 import com.webservice.domain.GeoCoder;
-import com.webservice.services.GoogleDBService;
+import com.webservice.persistence.GoogleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,12 +14,21 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPathExpressionException;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 @Controller
 public class GooglePageController {
 
+    private GoogleService googleService;
+
     @Autowired
-    private GoogleDBService service;
+    public void setGoogleService(GoogleService googleService) {
+        this.googleService = googleService;
+    }
+
+
+//    private GoogleDBService service;
 
     @RequestMapping(value = "/googleDistance", method = RequestMethod.GET)
     public ModelAndView load() {
@@ -30,13 +39,16 @@ public class GooglePageController {
     public
     @ResponseBody
     String get(@RequestParam(value = "fromAddress") String fromAddress, @RequestParam(value = "toAddress") String toAddress, @RequestParam(value = "travelMode") String travelMode) throws ParserConfigurationException, SAXException, XPathExpressionException, IOException {
-        String distance;
-            if (service.isLocationPresent(fromAddress, toAddress, travelMode)) {
-            distance = service.getDistance(fromAddress, toAddress, travelMode);
-        } else {
+        Map<String, String> map = new HashMap<String, String>();
+        map.put("fromAddress", fromAddress);
+        map.put("toAddress", toAddress);
+        map.put("travelMode", travelMode);
+        String distance = googleService.getDistance(map);
+        if (distance == null) {
             GeoCoder geoCoder = new GeoCoder();
             distance = geoCoder.calculateDistance(fromAddress.replaceAll(" ", "+"), toAddress.replaceAll(" ", "+"), travelMode);
-            service.save(fromAddress, toAddress, distance, travelMode);
+            map.put("distance", distance);
+            googleService.saveDistance(map);
         }
         return distance;
     }
